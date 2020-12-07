@@ -3,6 +3,7 @@ let g:mapleader = "\<Space>"
 
 syntax enable                           " Enables syntax highlighing
 syntax on
+set noshowcmd
 set termguicolors
 set scrolloff=7
 set nohlsearch

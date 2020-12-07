@@ -4,7 +4,7 @@ Plug 'sheerun/vim-polyglot'
 
 " Color schemes
 Plug 'joshdick/onedark.vim'
-Plug 'morhetz/gruvbox'
+Plug 'lifepillar/gruvbox8'
 Plug 'neoclide/coc.nvim'
 Plug 'scrooloose/nerdcommenter'
 Plug 'vim-airline/vim-airline'
@@ -15,5 +15,7 @@ Plug 'norcalli/nvim-colorizer.lua'
 Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
 Plug 'nvim-treesitter/playground'
 Plug 'frazrepo/vim-rainbow'
+Plug 'easymotion/vim-easymotion'
+Plug 'tpope/vim-surround'
 
 call plug#end()
